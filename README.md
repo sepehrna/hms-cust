@@ -1,3 +1,3 @@
 # hms-customer
-Hotel Management System customer management
-Implemented with soap
+Hotel Management System customer management.
+Implemented with SOAP
